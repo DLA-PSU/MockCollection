@@ -1,8 +1,9 @@
 display_name,stub,dropdown_parent
 Home,/
-Exhibits,,
-Exhibit 1,/exhibit-1.html,Exhibits
+About,/about.html
 Browse,/browse.html
 Subjects,/subjects.html
-About,/about.html
+Exhibits,,
+Exhibit 1,/exhibit-1.html,Exhibits
+
 
