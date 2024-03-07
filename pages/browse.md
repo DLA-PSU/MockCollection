@@ -7,3 +7,4 @@ permalink: /browse.html
 ---
 
 ## Browse Items
+I can add a description of what users are seeing here about the collection. For example, tell them that the collection is organized in compound objects that reflect subcollections with one main book and two secondary items. 
