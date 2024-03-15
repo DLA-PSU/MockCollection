@@ -1,4 +1,4 @@
-objectid,filename,title,creator,date,description,subject,location,provenance,psuurl,call-number,physical-description,type,medium,format,language,rights,parentid
+objectid,filename,title,creator,date,description,subject,location,provenance,source,identifier,physical-description,type,medium,format,language,rights,parentid
 wlh_300,,Subcollection title,Genevieve Gordon,2024,150 Word Label,A subject for your own exhibition,,,,,,,,compound_object,,public domain,
 wlh_301,wlh_301.png,A Journal in Germany of 42 Days by a Youth of Between 15 and 16 Years of Age,T.W.R.,,150 Word Label,travel; adolescent; poetry; Germany,"Norwich, England",,https://catalog.libraries.psu.edu/catalog/1436615,1995-0006R/A-S Mss.,"marble board covers, quarter binding",,manuscript,image/png,English,public domain,wlh_300
 wlh_302,wlh_302.png,"The Young Clerk's Assistant; or Penmanship Made Easy, Instructive, and Entertaining","Leekey, William",1774,150 Word Label,copybook; handwriting,"London, England",,https://catalog.libraries.psu.edu/catalog/3751742,Z43.L434 1774 c.1,"brocade paper covers, quarter binding, includes slip case",,print,image/png,English,public domain,wlh_300
