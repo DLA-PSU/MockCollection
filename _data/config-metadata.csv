@@ -7,10 +7,12 @@ subject,Subjects,true
 location,Location
 latitude,Latitude
 longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Book Format,
+provenance, Provenance,
+source,PSU url,
+identifier,Source Call-Number,,
+type,Physical Description,
+medium, Medium,
 format,Digital Object Format,
+language, Language,
 rights,Rights,
-rightsstatement,Rights Statement,,true
 student,Student Name,
